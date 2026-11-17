@@ -1,0 +1,521 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "name": "Title",
+          "settings": {
+            "text": "<h1>{{ closest.page.title }}</h1>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-primary--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "page-content": {
+          "type": "page-content",
+          "disabled": true,
+          "settings": {
+            "text_color": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "page-content"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "gap": 32,
+        "background_color": "{{ settings.color_palette.background }}",
+        "padding-block-start": 40,
+        "padding-block-end": 19
+      }
+    },
+    "section_zVEN8p": {
+      "type": "section",
+      "blocks": {
+        "group_xknmaU": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "image",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image": "shopify://shop_images/miguel_cacao-9130.jpg",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-2",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "text_xUCH9p": {
+              "type": "text",
+              "settings": {
+                "text": "",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_xUCH9p"
+          ]
+        },
+        "group_NptXBi": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "#895e2f",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-1",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_eHq6PV": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_TGnQLz": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Die Stimme von 200 Familien</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "#ffffff",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_gagw8Y": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Die CCA GmbH importiert den Kakao für Atelier Cacao. Sie ist ein unabhängiges Unternehmen für den wirklich transparenten, direkten Handel mit Kakaobohnen – und die Stimme, der Traum und die Hoffnung einer großen Gruppe von Bauern, Technikern, Ingenieuren, Transporteuren, Frauen und Kindern aus mehreren Ursprüngen Ecuadors.</p><p>Fakten: ~200 Familien in der Kooperative |<br/>~3.000 ha Kakaowald in Agroforstwirtschaft | 100+ Jahre alte Bäume, die wir rehabilitieren | 96–120 h Fermentation in Holzkisten</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "spacer_imgNgq": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_eHq6PV",
+            "text_TGnQLz",
+            "text_gagw8Y",
+            "spacer_imgNgq"
+          ]
+        }
+      },
+      "block_order": [
+        "group_xknmaU",
+        "group_NptXBi"
+      ],
+      "name": "t:names.split_showcase",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 31,
+        "padding-block-end": 90
+      }
+    },
+    "media_with_content_TBqewQ": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/WhatsApp-Image-2018-05-13-at-14.26.21.jpg",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 24
+          },
+          "blocks": {
+            "text_t6wfbM": {
+              "type": "text",
+              "name": "t:names.caption",
+              "disabled": true,
+              "settings": {
+                "text": "<p>Más vendido</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h6",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "group_qmEDrJ": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 12,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_fXn9NG": {
+                  "type": "text",
+                  "name": "t:names.heading",
+                  "settings": {
+                    "text": "<h2>Woher</h2>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_fXn9NG"
+              ]
+            },
+            "text_DdDMQX": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Unsere Kakaowälder liegen zwischen dem Naturreservat Los Illinizas und dem Biokorridor Chongón-Colonche, in den Bergtälern von Manabí – in Gemeinden wie Pechichal, Canuto, Membrillo, Come y Paga und Bejuco. Hier entspringen die wichtigsten Flüsse der ecuadorianischen Küste, der Babahoyo und der Daule.</p><p>Die Abgeschiedenheit hat diesen Kakao<br/>gerettet: Die Täler sind nur im Sommer über Straßen erreichbar, im Winter nur per Kanu. Diese natürliche Barriere aus Wasser und Bäumen schützte die Sorte vor der Seuche, die den Kakao Ecuadors 1916 vernichtete. Die Bäume hier sind über 100 Jahre alt, genetisch rein, frei von Chemie und gentechnisch veränderten Organismen – heirloom im eigentlichen Sinn.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_9DnDJB": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h2>Was CCA tut</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_G3CrTQ": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Bauern stärken. Wo es keine Verbände gibt, gründen wir welche. Wir schulen in guter landwirtschaftlicher Praxis, Bodenfruchtbarkeit, Schnitt, Ernte, Fermentation und Schädlingsmanagement – und helfen mit Vorfinanzierung vor der Saison.</p><p>&nbsp;&nbsp;&nbsp;<br/>Eine Sorte retten. Mit eigenen Baumschulen sichern wir, dass die native Sorte jeder Zone in Zeit und Raum fortbesteht. Wir lehnen jede Degradierung der Bäume, der Genetik oder der Prozesse ab.</p><p>&nbsp;&nbsp;&nbsp;<br/>Qualität standardisieren. Ernte in 50-kg-Netzsäcken, frei von Monilia und Sortenmischung. Fermentation in Holzkisten über 96 bis 120 Stunden mit Wenden. Sonnentrocknung in Etappen im Gewächshaus. Handsortierung durch die Frauen der Gemeinde. Lagerung auf Paletten mit Rückverfolgbarkeit jeder Charge.</p><p><br/>Gewinne zurückgeben. Jährliche Reinvestition in Ausbildung, Gesundheit, Transport, Sport und Ernährung der Gemeinden. Arbeit für junge Menschen, die keine Schule besuchen.</p><p>&nbsp;&nbsp;&nbsp;<br/>Kinder schützen. Dass Kinder auf der Familienfarm helfen, gehört zur ländlichen Tradition. Missbräuchliche oder erzwungene Arbeit tolerieren wir nicht – und wir wissen, dass Ecuador nur so lange nicht die Elfenbeinküste ist, wie diese Kultur gepflegt wird.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_t6wfbM",
+            "group_qmEDrJ",
+            "text_DdDMQX",
+            "text_9DnDJB",
+            "text_G3CrTQ"
+          ]
+        }
+      },
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "left",
+        "media_width": "medium",
+        "media_height": "60svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "background_color": "",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_zVEN8p",
+    "media_with_content_TBqewQ"
+  ]
+}

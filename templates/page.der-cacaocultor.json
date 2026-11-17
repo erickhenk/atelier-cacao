@@ -1,0 +1,650 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "name": "Title",
+          "settings": {
+            "text": "<h1>{{ closest.page.title }}</h1>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-primary--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "page-content": {
+          "type": "page-content",
+          "disabled": true,
+          "settings": {
+            "text_color": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "page-content"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "gap": 32,
+        "background_color": "{{ settings.color_palette.background }}",
+        "padding-block-start": 40,
+        "padding-block-end": 11
+      }
+    },
+    "section_8ULUbf": {
+      "type": "section",
+      "blocks": {
+        "group_6cC6dD": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "image",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image": "shopify://shop_images/don-adolfo-amanuta-cacao-blanco-miguel.jpg",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-2",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_DDTMNP": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_FB84M9": {
+              "type": "text",
+              "settings": {
+                "text": "",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_DDTMNP",
+            "text_FB84M9"
+          ]
+        },
+        "group_fLMjaE": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "{{ settings.color_palette.color1 }}",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-1",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_YUbmDw": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_RPEKAR": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<h1>Der Allgemeinarzt und der<br/>Neurochirurg.</h1>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "{{ settings.color_palette.foreground }}",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_Uz36FP": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Cacaocultor – ein Kakaobauer, der Kakao nach biodynamischen Kriterien anbaut und dabei Kultur, Wissen über den Kakao und biologische Vielfalt vereint. Qualität und Vielfalt haben Vorrang vor der Menge.</p><p>Der Kakaobauer, der Cacao Farmer , ist etwas anderes. Der Vergleich aus der Medizin macht es deutlich: Es gibt den Allgemeinarzt, und es gibt den erfahrenen Neurochirurgen. Der Allgemeinmediziner ist der Landwirt – er kann alles anbauen. Der Cacaocultor hat ein spezifisches Wissen über alles, was Kakao bedeutet und braucht. Keine Krankenkasse würde einem Allgemeinarzt eine komplexe Neurochirurgie erlauben.<br/>Nicht, weil er es nicht könnte – sondern weil er kein Experte darin ist.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "spacer_DzXQq6": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_YUbmDw",
+            "text_RPEKAR",
+            "text_Uz36FP",
+            "spacer_DzXQq6"
+          ]
+        }
+      },
+      "block_order": [
+        "group_6cC6dD",
+        "group_fLMjaE"
+      ],
+      "name": "t:names.split_showcase",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 80,
+        "padding-block-end": 0
+      }
+    },
+    "section_KVxVVJ": {
+      "type": "section",
+      "blocks": {
+        "group_mxqT7G": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "rgba(0,0,0,0)",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-1",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_tzVHFj": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_aYVD9w": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<h2>Was ein Cacaocultor tut?</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_nhbMQy": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Er hält wilden Kakao im Verbund mit anderen einheimischen Bäumen – Agroforstwirtschaft statt Plantage. Kein Baum wird gefällt, um zu ernten.</p><p><br/>Er erntet nur reife Früchte, sortiert nach Sorte und schützt die Bohnen vor Kontamination – Dinge, die der Zwischenhandel in Ecuador nicht bezahlt und deshalb kaum jemand tut.</p><p>&nbsp;&nbsp;<br/>Er fermentiert in Holzkisten und trocknet langsam in der Sonne, statt ungetrocknet abzuliefern.</p><p><br/>Er verpflichtet sich zu biologischer Agroforstwirtschaft, gesunden Umweltpraktiken und verantwortungsvollem Umgang mit der Gemeinschaft. Anderen Kakao verwenden wir nicht.</p><p></p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_CAn7CK": {
+              "type": "text",
+              "settings": {
+                "text": "<h4>Eine Berufung, die verschwindet</h4><p></p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h5",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_n4DUyJ": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Das Durchschnittsalter der Kakaobauern in<br/>unserer Region liegt bei über 60 Jahren. In den Dörfern gibt es keine Kanalisation, kein Leitungswasser, kaum Zufahrtsstraßen – im Winter sind sie nur per Kanu erreichbar. Die Erzeuger haben keine technische Ausbildung, das Einkommen ist niedrig, und die jungen Generationen wandern in die Städte ab, ohne das Potenzial ihres eigenen Landes zu kennen.</p><p>Große Konzerne zahlen in Ecuador für alle Sorten denselben Preis – für Nacional, für die Hochleistungssorte CCN-51, für Criollo Arriba. Damit verschwindet jeder Anreiz für Qualität. Unser Kampf ist, einen Raum zu schaffen, in dem junge Menschen auf dem Feld bleiben können, weil sich Qualität für sie lohnt.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_BrfhVL": {
+              "type": "text",
+              "settings": {
+                "text": "<h2>Wie wir den Preis bestimmen</h2><p></p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h5",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_4rMAR6": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Unsere Preise orientieren sich nicht am Weltmarkt und nicht an Zertifizierungen, sondern an dem, was unsere Cacaocultores als angemessen für ihr Produkt erachten – ein Vielfaches des Marktpreises, mindestens 80 % darüber. Der Preis wird pro Erntesaison nach Qualitätsparametern direkt zwischen uns festgelegt. So wissen die Familien vor der Ernte, welches Einkommen sie erwarten können, und können planen. Wir kümmern uns um die Prozesse; der Cacaocultor kümmert sich um seine Bäume und seine Weiterbildung.</p><p>Zertifikate schätzen wir für ihre guten<br/>Absichten. Aber wir stehen auf den Feldern und wissen: Sie prüfen weder Geschmack noch Qualität, und die Prämien schaffen oft mehr Bürokratie als Einkommen. Unser Kakao ist von Natur aus gut – wegen seiner Genetik, seiner alten Bäume und der Sorgfalt in jedem Prozessschritt.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "spacer_VpyNBU": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_tzVHFj",
+            "text_aYVD9w",
+            "text_nhbMQy",
+            "text_CAn7CK",
+            "text_n4DUyJ",
+            "text_BrfhVL",
+            "text_4rMAR6",
+            "spacer_VpyNBU"
+          ]
+        },
+        "group_apDYx7": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "image",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image": "shopify://shop_images/cacao-guillotina-norandino.jpg",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-2",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "text_CcnbUm": {
+              "type": "text",
+              "settings": {
+                "text": "",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_CcnbUm"
+          ]
+        }
+      },
+      "block_order": [
+        "group_mxqT7G",
+        "group_apDYx7"
+      ],
+      "name": "t:names.split_showcase",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 60,
+        "padding-block-end": 30
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_8ULUbf",
+    "section_KVxVVJ"
+  ]
+}

@@ -1,0 +1,1641 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "hero_jVaWmY": {
+      "type": "hero",
+      "blocks": {
+        "text_YLPk4p": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<p>Der ursprüngliche </p><p>Geschmack des Kakaos.</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "{{ settings.color_palette.background }}",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 81,
+            "padding-block-end": 80,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "button_H9gpTf": {
+          "type": "button",
+          "name": "t:names.button",
+          "settings": {
+            "label": "Trinkschokolade entdecken",
+            "link": "shopify://pages/trinkschokolade",
+            "open_in_new_tab": false,
+            "style_class": "button-custom",
+            "custom_button_background": "rgba(0,0,0,0)",
+            "custom_button_text": "{{ settings.color_palette.background }}",
+            "custom_button_border": "{{ settings.color_palette.background }}",
+            "link_text_color": "",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        },
+        "spacer_kdrcMJ": {
+          "type": "spacer",
+          "name": "t:names.spacer",
+          "settings": {
+            "size": "pixel",
+            "percent_size": 100,
+            "pixel_size": 84,
+            "custom_mobile_size": false,
+            "size_mobile": "percent",
+            "percent_size_mobile": 100,
+            "pixel_size_mobile": 120
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_YLPk4p",
+        "button_H9gpTf",
+        "spacer_kdrcMJ"
+      ],
+      "name": "t:names.hero",
+      "settings": {
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/arboles-cacao-amanuta0.jpg",
+        "media_type_2": "image",
+        "stack_media_on_mobile": false,
+        "custom_mobile_media": false,
+        "media_type_1_mobile": "image",
+        "media_type_2_mobile": "image",
+        "link": "",
+        "open_in_new_tab": false,
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "space-between",
+        "vertical_alignment": "flex-end",
+        "align_baseline": true,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "flex-end",
+        "gap": 24,
+        "section_width": "page-width",
+        "section_height": "medium",
+        "section_height_custom": 50,
+        "background_color": "rgba(0,0,0,0)",
+        "toggle_overlay": true,
+        "overlay_color": "#12121266",
+        "overlay_style": "solid",
+        "gradient_direction": "to bottom",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 100,
+        "padding-block-end": 26
+      }
+    },
+    "section_fk4Akc": {
+      "type": "section",
+      "blocks": {
+        "image_qAxbna": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/miguel_cacao-8858.jpg",
+            "link": "",
+            "image_ratio": "square",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 24,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "group_UeDt4t": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 29,
+            "width": "custom",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 50,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_Y8Wfdt": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<p>ÜBER UNS</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_884mLf": {
+              "type": "text",
+              "settings": {
+                "text": "<h5><strong>Im Kakao geboren.</strong></h5><p>Miguel Orellana ist die fünfte Generation<br/>einer Kakaofamilie aus Ecuador. Mit 18 begann er, mit den Bauern der ältesten<br/>Kakaosorten zu arbeiten – heute führt er in Konstanz die Manufaktur, die aus<br/>diesen Bohnen Trinkschokolade macht.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_T8LKUL": {
+              "type": "button",
+              "settings": {
+                "label": "Über uns",
+                "link": "shopify://pages/uber-uns",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "custom_button_background": "{{ settings.color_palette.foreground }}",
+                "custom_button_text": "{{ settings.color_palette.background }}",
+                "custom_button_border": "{{ settings.color_palette.background }}",
+                "link_text_color": "",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_Y8Wfdt",
+            "text_884mLf",
+            "button_T8LKUL"
+          ]
+        }
+      },
+      "block_order": [
+        "image_qAxbna",
+        "group_UeDt4t"
+      ],
+      "name": "t:names.image_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "section_zap7fE": {
+      "type": "section",
+      "blocks": {
+        "group_BXzw9U": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 29,
+            "width": "custom",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 50,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_zDTEHt": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<p>CACAOCULTOR</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_agqBmE": {
+              "type": "text",
+              "settings": {
+                "text": "<h5><strong>Mehr als ein Bauer.</strong></h5><p>Ein Cacaocultor baut Kakao nach<br/>biodynamischen Kriterien an und vereint Kultur, Wissen und Artenvielfalt. Der<br/>Unterschied zum Kakaobauern ist der zwischen Allgemeinarzt und Neurochirurg.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_CyfLQK": {
+              "type": "button",
+              "settings": {
+                "label": "Lesen mehr",
+                "link": "shopify://pages/der-cacaocultor",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "custom_button_background": "{{ settings.color_palette.foreground }}",
+                "custom_button_text": "{{ settings.color_palette.background }}",
+                "custom_button_border": "{{ settings.color_palette.background }}",
+                "link_text_color": "",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_zDTEHt",
+            "text_agqBmE",
+            "button_CyfLQK"
+          ]
+        },
+        "image_d93zA6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/miguel_cacao-8728.jpg",
+            "link": "",
+            "image_ratio": "square",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 24,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "group_BXzw9U",
+        "image_d93zA6"
+      ],
+      "name": "t:names.image_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "#eae3d3",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "section_D8LzB6": {
+      "type": "section",
+      "blocks": {
+        "image_RbtzcH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/woman-holding-drink.jpg",
+            "link": "",
+            "image_ratio": "square",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 24,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "group_NATXj7": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 29,
+            "width": "custom",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 50,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_PUbFaY": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<p>FÜR PROFIS</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_RKNpRK": {
+              "type": "text",
+              "settings": {
+                "text": "<h5><strong>Trinkschokolade für Ihre Karte.</strong></h5><p>Cafés, Hotels, Restaurants und<br/>Feinkosthändler beziehen unsere Trinkschokolade als 500-g- oder 1-kg-Beutel<br/>oder im Karton mit fünf 200-g-Dosen – mit Schulung, Staffelpreisen und<br/>Herkunft, die Sie Ihren Gästen erzählen können.</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_jnbKyt": {
+              "type": "button",
+              "settings": {
+                "label": "Zugang",
+                "link": "shopify://pages/b2b-zugang",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "custom_button_background": "{{ settings.color_palette.foreground }}",
+                "custom_button_text": "{{ settings.color_palette.background }}",
+                "custom_button_border": "{{ settings.color_palette.background }}",
+                "link_text_color": "",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_PUbFaY",
+            "text_RKNpRK",
+            "button_jnbKyt"
+          ]
+        }
+      },
+      "block_order": [
+        "image_RbtzcH",
+        "group_NATXj7"
+      ],
+      "name": "t:names.image_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "product_list_fa6P9H": {
+      "type": "product-list",
+      "blocks": {
+        "static-header": {
+          "type": "_product-list-content",
+          "name": "t:names.header",
+          "static": true,
+          "settings": {
+            "content_direction": "row",
+            "vertical_on_mobile": false,
+            "horizontal_alignment": "space-between",
+            "vertical_alignment": "flex-end",
+            "align_baseline": true,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "product_list_text_YFtzcL": {
+              "type": "_product-list-text",
+              "name": "t:names.collection_title",
+              "settings": {
+                "text": "<h1>Produkts</h1>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h2",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "product_list_button_MWeP9V": {
+              "type": "_product-list-button",
+              "name": "t:names.product_list_button",
+              "settings": {
+                "label": "View all",
+                "open_in_new_tab": false,
+                "style_class": "link",
+                "custom_button_background": "{{ settings.color_palette.foreground }}",
+                "custom_button_text": "{{ settings.color_palette.background }}",
+                "custom_button_border": "{{ settings.color_palette.background }}",
+                "link_text_color": "",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "product_list_text_YFtzcL",
+            "product_list_button_MWeP9V"
+          ]
+        },
+        "static-product-card": {
+          "type": "_product-card",
+          "name": "t:names.product_card",
+          "static": true,
+          "settings": {
+            "product_card_gap": 4,
+            "background_color": "",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "product_card_gallery_677WP3": {
+              "type": "_product-card-gallery",
+              "name": "t:names.product_card_media",
+              "settings": {
+                "image_ratio": "adapt",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "product_title_YXxMTj": {
+              "type": "product-title",
+              "name": "t:names.product_title",
+              "settings": {
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 4,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "price_JQzVV4": {
+              "type": "price",
+              "name": "t:names.product_price",
+              "settings": {
+                "show_sale_price_first": true,
+                "show_installments": false,
+                "show_tax_info": false,
+                "type_preset": "h6",
+                "width": "100%",
+                "alignment": "left",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "text_color": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "product_card_gallery_677WP3",
+            "product_title_YXxMTj",
+            "price_JQzVV4"
+          ]
+        }
+      },
+      "name": "Featured collection",
+      "settings": {
+        "collection": "chocolate",
+        "layout_type": "carousel",
+        "carousel_on_mobile": false,
+        "max_products": 15,
+        "columns": 4,
+        "mobile_columns": "2",
+        "mobile_card_size": "44cqw",
+        "columns_gap": 24,
+        "rows_gap": 29,
+        "icons_style": "arrow",
+        "icons_shape": "circle",
+        "section_width": "page-width",
+        "horizontal_alignment": "center",
+        "gap": 35,
+        "background_color": "{{ settings.color_palette.foreground }}",
+        "padding-block-start": 90,
+        "padding-block-end": 90
+      }
+    },
+    "media_with_content_QiiBRX": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/miguel-0102.jpg",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 27
+          },
+          "blocks": {
+            "spacer_4UrYFq": {
+              "type": "spacer",
+              "name": "t:names.spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 40,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "group_TDyJQc": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 12,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 51,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_AG7U7R": {
+                  "type": "text",
+                  "name": "t:names.caption",
+                  "settings": {
+                    "text": "<p>Warum Trinkschokolade?</p>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h6",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_qiJGBA": {
+                  "type": "text",
+                  "name": "t:names.heading",
+                  "settings": {
+                    "text": "<h3>Unsere Schokolade – Ihre Schokolade</h3>",
+                    "width": "fit-content",
+                    "max_width": "narrow",
+                    "alignment": "left",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 62
+                  },
+                  "blocks": {}
+                },
+                "text_kRVRBk": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Bevor es die Tafel gab, gab es die Tasse. Trinkschokolade ist die ursprünglichste Form, Kakao zu genießen — so, wie ihn die Kulturen Mittel- und Südamerikas seit Jahrhunderten zelebrierten, und so, wie sie im 16. und 17. Jahrhundert nach Europa kam und die Königshäuser des Kontinents verzauberte. Wir holen dieses Ritual zurück: pur, kraftvoll, ehrlich.</p>",
+                    "width": "fit-content",
+                    "max_width": "narrow",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "button_JcHJpC": {
+                  "type": "button",
+                  "settings": {
+                    "label": "Lesen mehr",
+                    "link": "shopify://pages/unsere-schokolade",
+                    "open_in_new_tab": false,
+                    "style_class": "button",
+                    "custom_button_background": "{{ settings.color_palette.foreground }}",
+                    "custom_button_text": "{{ settings.color_palette.background }}",
+                    "custom_button_border": "{{ settings.color_palette.background }}",
+                    "link_text_color": "",
+                    "width": "fit-content",
+                    "custom_width": 100,
+                    "width_mobile": "fit-content",
+                    "custom_width_mobile": 100
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_AG7U7R",
+                "text_qiJGBA",
+                "text_kRVRBk",
+                "button_JcHJpC"
+              ]
+            },
+            "spacer_XkCJ3q": {
+              "type": "spacer",
+              "name": "t:names.spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 40,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_4UrYFq",
+            "group_TDyJQc",
+            "spacer_XkCJ3q"
+          ]
+        }
+      },
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "left",
+        "media_width": "medium",
+        "media_height": "60svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "background_color": "",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
+    "section_ab3yTf": {
+      "type": "section",
+      "blocks": {
+        "group_RYmUXj": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 16,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "icon_9ywEfW": {
+              "type": "icon",
+              "settings": {
+                "icon": "map_pin",
+                "width": 32,
+                "link": "",
+                "open_in_new_tab": false,
+                "icon_color": ""
+              },
+              "blocks": {}
+            },
+            "group_3HUqGc": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 4,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_W7FrLM": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>Origins</h3>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_3gCAUk": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Ein Ursprung pro Dose. 100 % Kakao einer<br/>einzigen Herkunft, einer einzigen Genetik – der reine Ausdruck von Terroir, Fermentation und Röstung. Wie ein Lagenwein: Jede Dose schmeckt anders, weil jedes Tal anders ist.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_W7FrLM",
+                "text_3gCAUk"
+              ]
+            }
+          },
+          "block_order": [
+            "icon_9ywEfW",
+            "group_3HUqGc"
+          ]
+        },
+        "group_aXUwjt": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 16,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "icon_zTgChm": {
+              "type": "icon",
+              "settings": {
+                "icon": "bottle",
+                "width": 32,
+                "link": "",
+                "open_in_new_tab": false,
+                "icon_color": ""
+              },
+              "blocks": {}
+            },
+            "group_FGVKpm": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 4,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_hq6hdR": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>Gewürze</h3>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_jiMfBJ": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>100 % Kakao, dazu ganze Gewürze – so, wie<br/>Trinkschokolade getrunken wurde, bevor der Zucker kam. Jede Mischung ist eine andere Reise. Kein Zucker, keine Aromen.</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_hq6hdR",
+                "text_jiMfBJ"
+              ]
+            }
+          },
+          "block_order": [
+            "icon_zTgChm",
+            "group_FGVKpm"
+          ]
+        },
+        "group_LUiyFy": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 16,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "icon_VAbCpt": {
+              "type": "icon",
+              "settings": {
+                "icon": "leaf",
+                "width": 32,
+                "link": "",
+                "open_in_new_tab": false,
+                "icon_color": ""
+              },
+              "blocks": {}
+            },
+            "group_knFiQQ": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 4,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_zXrKWf": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<h3>Funktional</h3>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_yMLmRH": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>100 % Kakao, angereichert mit Vitalpilzen<br/>und zusätzlichen Kakao-Polyphenolen. Für den Morgen statt Kaffee, für den Fokus, für die Ruhe am Abend – Theobromin statt Koffein-Absturz.&nbsp;</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "center",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_zXrKWf",
+                "text_yMLmRH"
+              ]
+            }
+          },
+          "block_order": [
+            "icon_VAbCpt",
+            "group_knFiQQ"
+          ]
+        }
+      },
+      "block_order": [
+        "group_RYmUXj",
+        "group_aXUwjt",
+        "group_LUiyFy"
+      ],
+      "name": "t:names.icons_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "{{ settings.color_palette.color1 }}",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      }
+    },
+    "section_U7H3W7": {
+      "type": "section",
+      "blocks": {
+        "text_QyKaBj": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Atelier Cacao bringt die Trinkschokolade zurück nach Europa — so, wie sie vor über zweihundert Jahren aus der Neuen Welt ankam.</p>",
+            "width": "100%",
+            "max_width": "narrow",
+            "alignment": "center",
+            "type_preset": "h4",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "#ffffff",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "button_Vp3rdk": {
+          "type": "button",
+          "settings": {
+            "label": "Miguel Orellana, CEO Founder",
+            "link": "shopify://collections/all",
+            "open_in_new_tab": false,
+            "style_class": "button-unstyled",
+            "custom_button_background": "{{ settings.color_palette.foreground }}",
+            "custom_button_text": "{{ settings.color_palette.background }}",
+            "custom_button_border": "{{ settings.color_palette.background }}",
+            "link_text_color": "#ffffff",
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_QyKaBj",
+        "button_Vp3rdk"
+      ],
+      "name": "t:names.pull_quote",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 71,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "image",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image": "shopify://shop_images/miguel_cacao-8777.jpg",
+        "background_image_position": "cover",
+        "toggle_overlay": true,
+        "overlay_color": "#48311887",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 100,
+        "padding-block-end": 100
+      }
+    }
+  },
+  "order": [
+    "hero_jVaWmY",
+    "section_fk4Akc",
+    "section_zap7fE",
+    "section_D8LzB6",
+    "product_list_fa6P9H",
+    "media_with_content_QiiBRX",
+    "section_ab3yTf",
+    "section_U7H3W7"
+  ]
+}

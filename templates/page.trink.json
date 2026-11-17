@@ -1,0 +1,992 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "name": "Title",
+          "settings": {
+            "text": "<h1>{{ closest.page.title }}</h1>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-primary--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "page-content": {
+          "type": "page-content",
+          "settings": {
+            "text_color": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "page-content"
+      ],
+      "disabled": true,
+      "settings": {
+        "content_direction": "column",
+        "gap": 32,
+        "background_color": "{{ settings.color_palette.background }}",
+        "padding-block-start": 40,
+        "padding-block-end": 80
+      }
+    },
+    "hero_rfEm9y": {
+      "type": "hero",
+      "blocks": {
+        "group_N3A7zm": {
+          "type": "group",
+          "name": "t:names.group",
+          "settings": {
+            "content_direction": "row",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "flex-end",
+            "align_baseline": true,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 18,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "group_AAWWLL": {
+              "type": "group",
+              "name": "t:names.group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 6,
+                "width": "custom",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_PMz7DL": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<h2>Der ursprüngliche Geschmack<br/>des Kakaos</h2>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h6",
+                    "font": "var(--font-accent--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "#ffffff",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_UEp4bX": {
+                  "type": "text",
+                  "name": "t:names.heading",
+                  "settings": {
+                    "text": "<p>Trinkschokolade</p>",
+                    "width": "100%",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h2",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "#ffffff",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_PMz7DL",
+                "text_UEp4bX"
+              ]
+            },
+            "text_pibAfj": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<p>Bevor es die Tafel gab, gab es die Tasse. Trinkschokolade ist die ursprünglichste Form, Kakao zu genießen — so, wie ihn die Kulturen Mittel- und Südamerikas seit Jahrhunderten zelebrierten, lange bevor die ersten Bohnen im 16. Jahrhundert nach Europa kamen und die Königshäuser des Kontinents verzauberten. Atelier Cacao bringt dieses Ritual zurück: pur, kraftvoll, ehrlich — direkt aus dem Kakaowald in Ihre Tasse.</p>",
+                "width": "fit-content",
+                "max_width": "none",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "#ffffff",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "group_AAWWLL",
+            "text_pibAfj"
+          ]
+        }
+      },
+      "block_order": [
+        "group_N3A7zm"
+      ],
+      "name": "t:names.hero_bottom_aligned",
+      "settings": {
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/woman-holding-drink.jpg",
+        "media_type_2": "image",
+        "stack_media_on_mobile": false,
+        "custom_mobile_media": false,
+        "media_type_1_mobile": "image",
+        "media_type_2_mobile": "image",
+        "link": "",
+        "open_in_new_tab": false,
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "flex-end",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_color": "",
+        "toggle_overlay": true,
+        "overlay_color": "{{ settings.color_palette.foreground }}",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "section_KVxVVJ": {
+      "type": "section",
+      "blocks": {
+        "group_mxqT7G": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "custom",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "{{ settings.color_palette.foreground }}",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-1",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_tzVHFj": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_aYVD9w": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<h3>Aus der ganzen Bohne</h3>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "#ffffff",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_nhbMQy": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Wie alle Schokoladen von Atelier Cacao wird auch unsere Trinkschokolade aus der ganzen Bohne hergestellt — das schenkt ihr eine cremige Textur und ein komplexes<br/>Geschmackserlebnis. Zubereitet mit Wasser folgt sie der alten mittel- und südamerikanischen Tradition; Sie werden kaum glauben, dass sie mit Wasser gemacht wird. In der europäischen Tradition emulgieren wir sie mit Weidemilch oder einer pflanzlichen Alternative wie Hafer- oder Mandeldrink.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "spacer_VpyNBU": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_tzVHFj",
+            "text_aYVD9w",
+            "text_nhbMQy",
+            "spacer_VpyNBU"
+          ]
+        },
+        "group_apDYx7": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "image",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image": "shopify://shop_images/miguel-0073.jpg",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-2",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "text_CcnbUm": {
+              "type": "text",
+              "settings": {
+                "text": "",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_CcnbUm"
+          ]
+        }
+      },
+      "block_order": [
+        "group_mxqT7G",
+        "group_apDYx7"
+      ],
+      "name": "t:names.split_showcase",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 71,
+        "padding-block-end": 25
+      }
+    },
+    "section_8ULUbf": {
+      "type": "section",
+      "blocks": {
+        "group_6cC6dD": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "image",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image": "shopify://shop_images/miguel_cacao-8858.jpg",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-2",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_DDTMNP": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_FB84M9": {
+              "type": "text",
+              "settings": {
+                "text": "",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_DDTMNP",
+            "text_FB84M9"
+          ]
+        },
+        "group_fLMjaE": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "center",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 32,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fill",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "{{ settings.color_palette.color1 }}",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 25,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "hero-apparel-1",
+            "padding-block-start": 40,
+            "padding-block-end": 40,
+            "padding-inline-start": 40,
+            "padding-inline-end": 40
+          },
+          "blocks": {
+            "spacer_YUbmDw": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            },
+            "text_RPEKAR": {
+              "type": "text",
+              "name": "t:names.text",
+              "settings": {
+                "text": "<h3>Schneller als ein Cappuccino</h3>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "{{ settings.color_palette.foreground }}",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_Uz36FP": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Ob zuhause oder als Barista: Mit unserer Trinkschokolade bereiten Sie eine exklusive, cremige Tasse zu, reich an Geschmack — schneller, als Sie einen Cappuccino aufschäumen.<br/>Je nach gewünschter Textur und Präsentation wählen Sie die Dampf-Methode (schnell gemacht), die Latte-Art-Methode oder die klassische hausgemachte Zubereitung.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "paragraph",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "spacer_DzXQq6": {
+              "type": "spacer",
+              "settings": {
+                "size": "pixel",
+                "percent_size": 100,
+                "pixel_size": 16,
+                "custom_mobile_size": false,
+                "size_mobile": "percent",
+                "percent_size_mobile": 100,
+                "pixel_size_mobile": 120
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "spacer_YUbmDw",
+            "text_RPEKAR",
+            "text_Uz36FP",
+            "spacer_DzXQq6"
+          ]
+        }
+      },
+      "block_order": [
+        "group_6cC6dD",
+        "group_fLMjaE"
+      ],
+      "name": "t:names.split_showcase",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 25,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 25,
+        "padding-block-end": 0
+      }
+    },
+    "section_8pnjtU": {
+      "type": "section",
+      "blocks": {
+        "group_KjgX6M": {
+          "type": "group",
+          "name": "t:names.column",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 8,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "custom",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "#eae3d3",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 22,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 30,
+            "padding-block-end": 30,
+            "padding-inline-start": 30,
+            "padding-inline-end": 30
+          },
+          "blocks": {
+            "text_DbMz4t": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h3>Sacred Cacao — Zeremonieller Kakao</h3>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_pP7qnc": {
+              "type": "text",
+              "name": "t:names.description",
+              "settings": {
+                "text": "<p>Dieses 100%ige Schokoladenstück sorgt für einen zeremoniellen Moment, heiß oder kalt. Die gewünschte Menge mit Wasser und heiligen Kräutern und Gewürzen — etwa Zimt oder Vanille — bei mittlerer Hitze erwärmen, ständig rühren, nicht kochen lassen.</p><p>Diese Bohnenstammen von wild geernteten, uralten Kakaosorten aus Manabí, Ecuador — eine Seltenheit, wie es sie kaum irgendwo auf der Welt gibt. Sie tragen die reine, saubere Energie des Kakaowaldes direkt in Ihre Tasse.</p>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 25,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_DbMz4t",
+            "text_pP7qnc"
+          ]
+        },
+        "group_TWaAHj": {
+          "type": "group",
+          "name": "t:names.column",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "flex-start",
+            "gap": 8,
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "custom",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "#eae3d3",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 22,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 30,
+            "padding-block-end": 30,
+            "padding-inline-start": 30,
+            "padding-inline-end": 30
+          },
+          "blocks": {
+            "text_Tk7CYm": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h3>Für Profis</h3>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "h4",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_eCKWPG": {
+              "type": "text",
+              "name": "t:names.description",
+              "settings": {
+                "text": "<p>Geben Sie Ihrer professionellen Kreativität, Ihrer Karriere und Ihrer Leidenschaft mit unseren preisgekrönten Kakaos ein unverwechselbares, höheres Niveau. Alle Sorten sind auch im 5-kg-Gebinde erhältlich — für bis zu 250 Tassen, je nach gewünschter Intensität und Tassengröße. Auch als Couverture für Chocolatiers, Konditoreien und Bäckereien erhältlich, vakuumverpackt zu 1 kg in 10 Blöcken à 100 g.</p>",
+                "width": "100%",
+                "max_width": "normal",
+                "alignment": "center",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 25,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_Tk7CYm",
+            "text_eCKWPG"
+          ]
+        }
+      },
+      "block_order": [
+        "group_KjgX6M",
+        "group_TWaAHj"
+      ],
+      "name": "t:names.multicolumn",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "flex-start",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 82,
+        "padding-block-end": 48
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_rfEm9y",
+    "section_KVxVVJ",
+    "section_8ULUbf",
+    "section_8pnjtU"
+  ]
+}

@@ -1,0 +1,1316 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "blocks": {
+        "page-content": {
+          "type": "page-content",
+          "disabled": true,
+          "settings": {
+            "text_color": ""
+          },
+          "blocks": {}
+        },
+        "text_NQKAxC": {
+          "type": "text",
+          "name": "t:names.heading",
+          "disabled": true,
+          "settings": {
+            "text": "<h2>Die Methode: Die Kunst der langsamen Performance</h2>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "center",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_PcjVVp": {
+          "type": "text",
+          "name": "t:names.text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Wir trennen strikt zwischen der Arbeit im Ursprung und Ihrer Meisterschaft in Deutschland.</p>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "center",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "page-content",
+        "text_NQKAxC",
+        "text_PcjVVp"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "gap": 32,
+        "background_color": "",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
+    "hero_cNzciw": {
+      "type": "hero",
+      "blocks": {
+        "text_mwythU": {
+          "type": "text",
+          "settings": {
+            "text": "<h1><strong>Unsere Schokolade</strong></h1>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "#ffffff",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_eq7jeN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Eine Zutat. Ein Jahr Arbeit.<br/></p>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "#ffffff",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_DJVihP": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Es gibt vielleicht 200 Craft-Schokoladenmacher auf der Welt. Eine Handvoll beginnt ihre Schokolade am Baum. Wir gehören dazu – mit uralter Kakaogenetik, dem Wald, der sie trägt, und den Familien, die mit uns leben und ernten. Was danach kommt, ist Zeit, Stille und Präzision.</p>",
+            "width": "100%",
+            "max_width": "none",
+            "alignment": "center",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "#ffffff",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 32,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_mwythU",
+        "text_eq7jeN",
+        "text_DJVihP"
+      ],
+      "disabled": true,
+      "name": "t:names.hero",
+      "settings": {
+        "media_type_1": "image",
+        "image_1": "shopify://shop_images/miguel-0071.jpg",
+        "media_type_2": "image",
+        "stack_media_on_mobile": false,
+        "custom_mobile_media": false,
+        "media_type_1_mobile": "image",
+        "media_type_2_mobile": "image",
+        "link": "",
+        "open_in_new_tab": false,
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "center",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "large",
+        "section_height_custom": 50,
+        "background_color": "",
+        "toggle_overlay": true,
+        "overlay_color": "#00000026",
+        "overlay_style": "gradient",
+        "gradient_direction": "to top",
+        "blurred_reflection": false,
+        "reflection_opacity": 75,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "media_with_content_WAqngy": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/cacao-el-amanuta4.jpg",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 24
+          },
+          "blocks": {
+            "group_arDgDp": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 12,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 20,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "text_zzLrfL": {
+                  "type": "text",
+                  "name": "t:names.caption",
+                  "settings": {
+                    "text": "<p><strong>Die Geburtsstätte des Kakaos</strong></p>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h6",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_DwFV86": {
+                  "type": "text",
+                  "name": "t:names.heading",
+                  "settings": {
+                    "text": "<h2>Der Kakao</h2>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "h3",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                },
+                "text_fyUPtn": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Kakao ist in Südamerika beheimatet – im Gebiet, das heute Ecuador ist. Die Bohnen sind die Samen des Baums Theobroma cacao , „Nahrung der Götter“. Die Früchte hängen am Stamm, nicht an den Ästen; im Inneren liegen 40 bis 60 Samen in einem weißen, himmlisch schmeckenden Fruchtfleisch. Schokolade ist, technisch gesehen, ein fermentiertes Samen-Frucht-Püree.<br/></p><p>Kakao wächst nur 20 Grad nördlich und südlich des Äquators. Das milde Klima und die Höhenlage von Manabí, die Mineralien, die der Pazifik in die Kordillere trägt, das rauschende Wasser: eine der weltbesten Voraussetzungen für außergewöhnliche Bohnen. Man nimmt an, dass hier seit fast 1.000 Jahren Kakao geerntet wird.</p><p><br/><strong>Unsere Sorte:</strong> Criollo Arriba Nacional , eine alte Hybride, die nur in einer ganz bestimmten Gegend wächst, von manchen als die beste Kakaobohne der Welt angesehen – und fast ausgestorben. Die Bäume sind über 100 Jahre alt und stehen im Schatten anderer Bäume, in Agroforstwirtschaft, ohne Chemie, ohne Gentechnik.</p><p><br/><strong>Quelle zur Herkunft: </strong>IRD – Institut de recherche pour le développement</p><p><br/><strong>→ Woher genau:</strong> die Täler der CCA<br/>VOM BAUM BIS IN DIE TASSE<br/>Jede Bohne geht zweimal durch unsere Hände.<br/>Einmal in Ecuador, einmal in Konstanz. Dazwischen liegt kein Zwischenhändler, kein Halbfertigprodukt, kein Konzern.</p>",
+                    "width": "fit-content",
+                    "max_width": "normal",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "1rem",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_zzLrfL",
+                "text_DwFV86",
+                "text_fyUPtn"
+              ]
+            }
+          },
+          "block_order": [
+            "group_arDgDp"
+          ]
+        }
+      },
+      "disabled": true,
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "left",
+        "media_width": "medium",
+        "media_height": "60svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "background_color": "",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
+    "section_FVfyFj": {
+      "type": "section",
+      "blocks": {
+        "group_Q8eMKj": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "custom",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_GW3VTw": {
+              "type": "text",
+              "name": "t:names.caption",
+              "settings": {
+                "text": "<p>Was Sie schmecken werden</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h6",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_XdJPPi": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h2>Aroma</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_WFjXdc": {
+              "type": "text",
+              "settings": {
+                "text": "<p>Unsere seltenen Bohnen haben einen starken Charakter. Es macht Freude, die Sinne miteinander spielen zu lassen, während sie ihre Säure, Süße und Kontraste offenbaren. Die Nacional-Familie ist berühmt für ihre tiefe blumige Note – darunter verstecken sich Frucht, Nuss und Erde.</p><p>Trinken Sie sie nicht im Stehen. Beobachten, riechen, fühlen, schmecken – und Ihrer Intuition trauen. Schokolade braucht Zeit.</p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "button_R3V3DC": {
+              "type": "button",
+              "settings": {
+                "label": "Was Kakao in Ihnen bewirkt",
+                "link": "shopify://collections/all",
+                "open_in_new_tab": false,
+                "style_class": "button",
+                "custom_button_background": "{{ settings.color_palette.foreground }}",
+                "custom_button_text": "{{ settings.color_palette.background }}",
+                "custom_button_border": "{{ settings.color_palette.background }}",
+                "link_text_color": "",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_GW3VTw",
+            "text_XdJPPi",
+            "text_WFjXdc",
+            "button_R3V3DC"
+          ]
+        },
+        "image_6gaPkX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-sergey-torbik-42706484-11616429.jpg",
+            "link": "",
+            "image_ratio": "square",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "group_Q8eMKj",
+        "image_6gaPkX"
+      ],
+      "disabled": true,
+      "name": "t:names.image_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "section_mhNr64": {
+      "type": "section",
+      "blocks": {
+        "text_nm8aU4": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<p>Was Kakao in Ihnen bewirkt</p>",
+            "width": "fit-content",
+            "max_width": "narrow",
+            "alignment": "left",
+            "type_preset": "h3",
+            "font": "var(--font-body--family)",
+            "font_size": "",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_y9Mfr7": {
+          "type": "text",
+          "name": "t:names.description",
+          "settings": {
+            "text": "<p>Kakao wird von der Menschheit seit Jahrtausenden als Stimulans genutzt. Er zählt zu den Lebensmitteln mit dem höchsten Gehalt an Antioxidantien – und enthält eine Handvoll natürlich vorkommender Verbindungen, die nicht nur gut tun, sondern die Leistung steigern. Unverarbeitet, nicht alkalisiert, aus ganzen Bohnen: So bleibt davon am meisten in der Tasse.</p>",
+            "width": "100%",
+            "max_width": "none",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "accordion_fQYEVg": {
+          "type": "accordion",
+          "name": "t:names.accordion",
+          "disabled": true,
+          "settings": {
+            "icon": "caret",
+            "dividers": true,
+            "divider_color": "",
+            "type_preset": "h5",
+            "background_color": "",
+            "text_color": "",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "accordion_row_KUkrXJ": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "Theobromin",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_8D3cqB": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Kakao ist das einzige Lebensmittel mit nennenswerten Mengen Theobromin. Eine Portion 75-prozentiger dunkler Schokolade enthält siebenmal mehr Theobromin als industrielle Milchschokolade, 17-mal mehr als Yerba Mate und 78-mal mehr als Tee. Anders als Koffein stört Theobromin den Schlaf nicht – eine große US-Studie (Grandner et al., n = 5.587) fand sogar, dass Theobromin von allen Nahrungsbestandteilen am stärksten mit der Schlafdauer zusammenhing.</p>",
+                    "width": "100%",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_8D3cqB"
+              ]
+            },
+            "accordion_row_c9CtYN": {
+              "type": "_accordion-row",
+              "settings": {
+                "heading": "Theophyllin",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_FqxxQK": {
+                  "type": "text",
+                  "settings": {
+                    "text": "<p>Ein weiteres Methylxanthin, in geringerer Konzentration. Es erhöht vor allem die Konzentrationsfähigkeit. Die Flavanole des Kakaos wirken zudem entzündungshemmend.</p>",
+                    "width": "100%",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_FqxxQK"
+              ]
+            },
+            "accordion_row_z3gX3J": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Phenylethylamin (PEA)",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_e4PkzD": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Eine Verbindung, die auch im menschlichen Gehirn vorkommt. Sie löst die Freisetzung von Endorphinen aus und regt die Produktion von Dopamin und Serotonin an – deshalb heißt sie „Liebesdroge“.</p>",
+                    "width": "100%",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_e4PkzD"
+              ]
+            },
+            "accordion_row_AJq68p": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Anandamid",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_D8arRk": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Das „Glücksmolekül“: Es aktiviert die Cannabinoidrezeptoren im Gehirn und steigert Motivation und Wohlgefühl.</p>",
+                    "width": "100%",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_D8arRk"
+              ]
+            },
+            "accordion_row_epdU7N": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Koffein",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_9HtDHA": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>In sehr geringen Mengen enthalten – nicht vergleichbar mit Kaffee, ohne Nervosität und ohne Absturz. Das Verhältnis von Theobromin zu Koffein liegt in dunkler Schokolade zwischen 7 und 16, bei Yerba Mate bei 0,4, bei Tee bei 0,1.</p>",
+                    "width": "100%",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_9HtDHA"
+              ]
+            },
+            "accordion_row_7bM3By": {
+              "type": "_accordion-row",
+              "name": "t:names.accordion_row",
+              "settings": {
+                "heading": "Die CoCoA-Studie",
+                "open_by_default": false,
+                "icon": "none",
+                "width": 20
+              },
+              "blocks": {
+                "text_BxMKiV": {
+                  "type": "text",
+                  "name": "t:names.text",
+                  "settings": {
+                    "text": "<p>Die randomisierte, kontrollierte Cocoa, Cognition, and Aging -Studie zeigte, dass der Verzehr von Kakaoflavanolen kognitive Funktionen, Blutdruckkontrolle und Stoffwechselprofil bei älteren Menschen verbessert.</p>",
+                    "width": "100%",
+                    "max_width": "none",
+                    "alignment": "left",
+                    "type_preset": "rte",
+                    "font": "var(--font-body--family)",
+                    "font_size": "",
+                    "line_height": "normal",
+                    "letter_spacing": "normal",
+                    "case": "none",
+                    "wrap": "pretty",
+                    "text_color": "",
+                    "background": false,
+                    "background_color": "#00000026",
+                    "corner_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {}
+                }
+              },
+              "block_order": [
+                "text_BxMKiV"
+              ]
+            }
+          },
+          "block_order": [
+            "accordion_row_KUkrXJ",
+            "accordion_row_c9CtYN",
+            "accordion_row_z3gX3J",
+            "accordion_row_AJq68p",
+            "accordion_row_epdU7N",
+            "accordion_row_7bM3By"
+          ]
+        }
+      },
+      "block_order": [
+        "text_nm8aU4",
+        "text_y9Mfr7",
+        "accordion_fQYEVg"
+      ],
+      "name": "bewirkt",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "#eae3d3",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 48,
+        "padding-block-end": 48
+      }
+    },
+    "media_with_content_dd6pMe": {
+      "type": "media-with-content",
+      "blocks": {
+        "media": {
+          "type": "_media-without-appearance",
+          "static": true,
+          "settings": {
+            "media_type": "image",
+            "image": "shopify://shop_images/miguel_cacao-8728-2.jpg",
+            "link": "",
+            "video_loop": true,
+            "video_autoplay": false,
+            "image_position": "cover",
+            "video_position": "cover"
+          },
+          "blocks": {}
+        },
+        "content": {
+          "type": "_content-without-appearance",
+          "static": true,
+          "settings": {
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "space-between",
+            "gap": 24
+          },
+          "blocks": {
+            "group_JiRdnQ": {
+              "type": "group",
+              "settings": {
+                "content_direction": "column",
+                "vertical_on_mobile": true,
+                "horizontal_alignment": "flex-start",
+                "vertical_alignment": "center",
+                "align_baseline": false,
+                "horizontal_alignment_flex_direction_column": "flex-start",
+                "vertical_alignment_flex_direction_column": "center",
+                "gap": 12,
+                "width": "fill",
+                "custom_width": 100,
+                "width_mobile": "fill",
+                "custom_width_mobile": 100,
+                "height": "fit",
+                "custom_height": 100,
+                "background_media": "none",
+                "background_color": "",
+                "video_position": "cover",
+                "background_image_position": "cover",
+                "toggle_overlay": false,
+                "overlay_color": "#00000026",
+                "overlay_style": "solid",
+                "gradient_direction": "to top",
+                "border": "none",
+                "border_width": 1,
+                "border_opacity": 100,
+                "border_color": "",
+                "border_radius": 0,
+                "link": "",
+                "open_in_new_tab": false,
+                "placeholder": "",
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {
+                "accordion_M74ebJ": {
+                  "type": "accordion",
+                  "name": "t:names.accordion",
+                  "settings": {
+                    "icon": "caret",
+                    "dividers": true,
+                    "divider_color": "",
+                    "type_preset": "h5",
+                    "background_color": "",
+                    "text_color": "",
+                    "border": "none",
+                    "border_width": 1,
+                    "border_opacity": 100,
+                    "border_color": "",
+                    "border_radius": 0,
+                    "padding-block-start": 0,
+                    "padding-block-end": 0,
+                    "padding-inline-start": 0,
+                    "padding-inline-end": 0
+                  },
+                  "blocks": {
+                    "accordion_row_KdXqXD": {
+                      "type": "_accordion-row",
+                      "settings": {
+                        "heading": "Theobromin",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_Htjrnc": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<p>Kakao ist das einzige Lebensmittel mit nennenswerten Mengen Theobromin. Eine Portion 75-prozentiger dunkler Schokolade enthält siebenmal mehr Theobromin als industrielle Milchschokolade, 17-mal mehr als Yerba Mate und 78-mal mehr als Tee. Anders als Koffein stört Theobromin den Schlaf nicht – eine große US-Studie (Grandner et al., n = 5.587) fand sogar, dass Theobromin von allen Nahrungsbestandteilen am stärksten mit der Schlafdauer zusammenhing.</p>",
+                            "width": "100%",
+                            "max_width": "none",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "text_color": "",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_Htjrnc"
+                      ]
+                    },
+                    "accordion_row_8e7tPk": {
+                      "type": "_accordion-row",
+                      "settings": {
+                        "heading": "Theophyllin",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_wxFbVR": {
+                          "type": "text",
+                          "settings": {
+                            "text": "<p>Ein weiteres Methylxanthin, in geringerer Konzentration. Es erhöht vor allem die Konzentrationsfähigkeit. Die Flavanole des Kakaos wirken zudem entzündungshemmend.</p>",
+                            "width": "100%",
+                            "max_width": "none",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "text_color": "",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_wxFbVR"
+                      ]
+                    },
+                    "accordion_row_KWxACT": {
+                      "type": "_accordion-row",
+                      "name": "t:names.accordion_row",
+                      "settings": {
+                        "heading": "Phenylethylamin (PEA)",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_PNXTjf": {
+                          "type": "text",
+                          "name": "t:names.text",
+                          "settings": {
+                            "text": "<p>Eine Verbindung, die auch im menschlichen Gehirn vorkommt. Sie löst die Freisetzung von Endorphinen aus und regt die Produktion von Dopamin und Serotonin an – deshalb heißt sie „Liebesdroge“.</p>",
+                            "width": "100%",
+                            "max_width": "none",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "text_color": "",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_PNXTjf"
+                      ]
+                    },
+                    "accordion_row_NgVpfw": {
+                      "type": "_accordion-row",
+                      "name": "t:names.accordion_row",
+                      "settings": {
+                        "heading": "Anandamid",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_NzyBxa": {
+                          "type": "text",
+                          "name": "t:names.text",
+                          "settings": {
+                            "text": "<p>Das „Glücksmolekül“: Es aktiviert die Cannabinoidrezeptoren im Gehirn und steigert Motivation und Wohlgefühl.</p>",
+                            "width": "100%",
+                            "max_width": "none",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "text_color": "",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_NzyBxa"
+                      ]
+                    },
+                    "accordion_row_VDcTyr": {
+                      "type": "_accordion-row",
+                      "name": "t:names.accordion_row",
+                      "settings": {
+                        "heading": "Koffein",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_zeY7FM": {
+                          "type": "text",
+                          "name": "t:names.text",
+                          "settings": {
+                            "text": "<p>In sehr geringen Mengen enthalten – nicht vergleichbar mit Kaffee, ohne Nervosität und ohne Absturz. Das Verhältnis von Theobromin zu Koffein liegt in dunkler Schokolade zwischen 7 und 16, bei Yerba Mate bei 0,4, bei Tee bei 0,1.</p>",
+                            "width": "100%",
+                            "max_width": "none",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "text_color": "",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_zeY7FM"
+                      ]
+                    },
+                    "accordion_row_cVVxmH": {
+                      "type": "_accordion-row",
+                      "name": "t:names.accordion_row",
+                      "settings": {
+                        "heading": "Die CoCoA-Studie",
+                        "open_by_default": false,
+                        "icon": "none",
+                        "width": 20
+                      },
+                      "blocks": {
+                        "text_Y6RKnd": {
+                          "type": "text",
+                          "name": "t:names.text",
+                          "settings": {
+                            "text": "<p>Die randomisierte, kontrollierte Cocoa, Cognition, and Aging -Studie zeigte, dass der Verzehr von Kakaoflavanolen kognitive Funktionen, Blutdruckkontrolle und Stoffwechselprofil bei älteren Menschen verbessert.</p>",
+                            "width": "100%",
+                            "max_width": "none",
+                            "alignment": "left",
+                            "type_preset": "rte",
+                            "font": "var(--font-body--family)",
+                            "font_size": "",
+                            "line_height": "normal",
+                            "letter_spacing": "normal",
+                            "case": "none",
+                            "wrap": "pretty",
+                            "text_color": "",
+                            "background": false,
+                            "background_color": "#00000026",
+                            "corner_radius": 0,
+                            "padding-block-start": 0,
+                            "padding-block-end": 0,
+                            "padding-inline-start": 0,
+                            "padding-inline-end": 0
+                          },
+                          "blocks": {}
+                        }
+                      },
+                      "block_order": [
+                        "text_Y6RKnd"
+                      ]
+                    }
+                  },
+                  "block_order": [
+                    "accordion_row_KdXqXD",
+                    "accordion_row_8e7tPk",
+                    "accordion_row_KWxACT",
+                    "accordion_row_NgVpfw",
+                    "accordion_row_VDcTyr",
+                    "accordion_row_cVVxmH"
+                  ]
+                }
+              },
+              "block_order": [
+                "accordion_M74ebJ"
+              ]
+            }
+          },
+          "block_order": [
+            "group_JiRdnQ"
+          ]
+        }
+      },
+      "name": "t:names.editorial",
+      "settings": {
+        "media_position": "left",
+        "media_width": "medium",
+        "media_height": "60svh",
+        "section_width": "full-width",
+        "extend_media": true,
+        "background_color": "",
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "hero_cNzciw",
+    "media_with_content_WAqngy",
+    "section_FVfyFj",
+    "section_mhNr64",
+    "media_with_content_dd6pMe"
+  ]
+}

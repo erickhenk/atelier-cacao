@@ -1,0 +1,253 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "blocks": {
+        "heading": {
+          "type": "text",
+          "name": "Title",
+          "settings": {
+            "text": "<h1>{{ closest.page.title }}</h1>",
+            "width": "100%",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "h2",
+            "font": "var(--font-primary--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "page-content": {
+          "type": "page-content",
+          "settings": {
+            "text_color": ""
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "heading",
+        "page-content"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "gap": 32,
+        "background_color": "{{ settings.color_palette.background }}",
+        "padding-block-start": 40,
+        "padding-block-end": 80
+      }
+    },
+    "section_WFh37c": {
+      "type": "section",
+      "blocks": {
+        "group_8Qqzwp": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "custom",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_KDYxqY": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<h2>Kontakt unsrr</h2>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "icon_Db94ky": {
+              "type": "icon",
+              "name": "t:names.icon",
+              "settings": {
+                "icon": "price_tag",
+                "width": 24,
+                "link": "",
+                "open_in_new_tab": false,
+                "icon_color": ""
+              },
+              "blocks": {}
+            },
+            "text_CFkcF6": {
+              "type": "text",
+              "settings": {
+                "text": "<p>+59 0094949844848</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_KDYxqY",
+            "icon_Db94ky",
+            "text_CFkcF6"
+          ]
+        },
+        "contact_form_jJNxaT": {
+          "type": "contact-form",
+          "name": "t:names.contact_form",
+          "settings": {
+            "width": "fit-content",
+            "custom_width": 100,
+            "width_mobile": "fit-content",
+            "custom_width_mobile": 100,
+            "background_color": "rgba(0,0,0,0)",
+            "input_style": "custom",
+            "input_background_color": "#ffffff",
+            "input_text_color": "{{ settings.color_palette.foreground }}",
+            "input_border_color": "{{ settings.color_palette.foreground }}",
+            "border_width": 1,
+            "border_radius": 14,
+            "padding-block-start": 51,
+            "padding-block-end": 49,
+            "padding-inline-start": 30,
+            "padding-inline-end": 30
+          },
+          "blocks": {
+            "submit-button": {
+              "type": "contact-form-submit-button",
+              "static": true,
+              "settings": {
+                "label": "Enviar",
+                "style_class": "button",
+                "custom_button_background": "{{ settings.color_palette.foreground }}",
+                "custom_button_text": "{{ settings.color_palette.background }}",
+                "custom_button_border": "{{ settings.color_palette.background }}",
+                "width": "fit-content",
+                "custom_width": 100,
+                "width_mobile": "fit-content",
+                "custom_width_mobile": 100
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": []
+        }
+      },
+      "block_order": [
+        "group_8Qqzwp",
+        "contact_form_jJNxaT"
+      ],
+      "name": "t:names.image_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "section_WFh37c"
+  ]
+}
